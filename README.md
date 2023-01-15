@@ -28,7 +28,7 @@ pip install -U scikit-learn
 
 Important: This program is intended purely for academic purposes, and is solely an example of what is possible. This repository, program, and relevant files are not intended to provide actual investment advice.  
 
-To begin using this program, please download the following files (included in the repository as well as the 'Resources' folder) to your local machine.   
+To begin using this program, please download the following files (included in the repository as well as the 'Resources' folder) to your local machine:  
 venture_funding_with_deep_learning.ipynb  
 applicants_data.csv
 
