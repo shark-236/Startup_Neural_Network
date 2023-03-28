@@ -1,4 +1,4 @@
-# Module_13_Challenge
+# Startup Neural Network
 Goal: A venture capital firm has asked for the creation of a model that predicts whether or not startups will be successful if funded. Provided is a CSV file containing 34k+ organizations that have previously received funding from this venture capital firm. A neural network will be created to parse this data and predict success or failure of the startup(s) in question. Deep learning models using neural networks will be employed to achieve this task. 
 
 ---
